@@ -1,4 +1,4 @@
-﻿namespace Tyuiu.AlshinAF.Task2.V0.Lib
+﻿namespace Tyuiu.AlshinAF.Sprint0.Task2.V0.Lib
 {
     public class DataService
     {
